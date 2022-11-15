@@ -5,4 +5,4 @@ Reproduce the visualizations found in this blog post:
 
 This is an optional Lab, it won't count towards your mandatory allotment of turned in labs but if you turn it in, it will be graded anyway.
 
-Publish your Dashboard in Tableau Public and submit the link in the student portal.
+Upon completion, publish your workbook on Tableau Public and place the shareable link into the submission link.
